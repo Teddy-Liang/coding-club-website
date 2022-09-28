@@ -42,12 +42,6 @@ export default function TitlePage() {
           </div>
          
       </div>
-      <div className={styles.svgHero}>
-        <object
-          type="image/svg+xml"
-          data="/Programming-amico.svg"
-        ></object>
-        </div>
     </>
   );
 }
